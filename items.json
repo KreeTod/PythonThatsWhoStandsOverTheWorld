@@ -1,0 +1,10 @@
+[
+    {
+        "id" : 0,
+        "line_1_ascii_art" : "../",
+        "line_2_ascii_art" : "._.",
+        "line_3_ascii_art" : "/..",
+        "name" : "Sword",
+        "weight" : 2.0
+    }
+]

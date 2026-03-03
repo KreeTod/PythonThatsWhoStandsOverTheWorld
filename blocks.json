@@ -1,0 +1,16 @@
+[
+    {
+        "id" : 0,
+        "symbol" : ".",
+        "name" : "stone",
+        "isSolid" : false,
+        "isBrakeble" : false
+    },
+    {
+        "id" : 1,
+        "symbol" : "#",
+        "name" : "stone",
+        "isSolid" : true,
+        "isBrakeble" : true
+    }
+]
