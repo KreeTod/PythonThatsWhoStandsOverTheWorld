@@ -1,0 +1,43 @@
+body {
+    color: white;
+    background-color: rgb(50,50,70);
+}
+.middle-bkg{
+    border: 5px;
+    border-style: solid;
+    border-color: red;
+    height: auto;
+    width: 70%;
+}
+.top-buttons{
+    color: aliceblue;
+}
+.top-button{
+    color: aliceblue;
+}
+
+.content-wrapper{
+    border: 20px;
+    border-style: solid;
+    border-color: green;
+}
+.main-content-left{
+    border: 20px;
+    border-style: solid;
+    border-color: blue;
+}
+.main-content-middle{
+    border: 20px;
+    border-style: solid;
+    border-color: purple;
+    
+}
+.main-content-right{
+    border: 20px;
+    border-style: solid;
+    border-color: fuchsia;
+    
+}
+.block-of-add{
+    color: deeppink;
+}

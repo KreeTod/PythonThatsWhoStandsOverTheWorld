@@ -1,0 +1,15 @@
+{
+  "name": "versionthatsthestuff",
+  "version": "1.0.0",
+  "description": "Trying my best",
+  "license": "ISC",
+  "author": "KreeTod",
+  "type": "commonjs",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "dependencies": {
+    "express": "^5.2.1"
+  }
+}
